@@ -1,0 +1,30 @@
+body {
+Background-image:url(blackscreen.gif);
+Background-repeat:no-repeat; ;
+Background-size:5000px 5000px;
+}
+H1 {
+Text-align:center;
+Color:00FFFF;
+}
+ div {
+Text=align:center;
+Background-color:#FF69B4
+Font-size:20px;
+Border:3px solid white;
+Color:#ff00ff;
+}
+Table, td, th
+{
+Border:1px solid blue;
+Padding:15px;
+}
+Th
+{
+Background-color:powderblue;
+Color:F0F8FF;
+}
+A:hover,a:active
+{
+Background-color:7A991A;
+}
